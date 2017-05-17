@@ -1,6 +1,6 @@
 {
 	"dealer-1__title": "Offerte = factuur",
-	"dealer-1__text": " Wij van ŠKODA houden alleen van verrassingen als ze leuk zijn. De offerteprijs voor onderhoud of reparatie is bij onze dealers daarom altijd gelijk aan de factuurprijs. Zo weet je vooraf waar je aan toe bent.",
+	"dealer-1__text": "Wij van ŠKODA houden alleen van verrassingen als ze leuk zijn. De offerteprijs voor onderhoud of reparatie is bij onze dealers daarom altijd gelijk aan de factuurprijs. Zo weet je vooraf waar je aan toe bent.",
 	"dealer-2__title": "Gratis hulp onderweg bij onderhoud",
 	"dealer-2__text": "Als je het reguliere onderhoud van je ŠKODA bij de dealer onderbrengt, heb je altijd recht op gratis hulp bij pech onderweg. In nagenoeg heel Europa. Van een vervangende auto tot een hotelovernachting op onze kosten. Dat is onze Mobiliteitsgarantie.",
 	"dealer-3__title": "Vaste lage onderhoudskosten",
@@ -10,5 +10,11 @@
 	"dealer-5__title": "Service en onderhoud op maat",
 	"dealer-5__text": "De monteurs van onze ŠKODA-dealers werken vooral aan ŠKODA’s. Zij zijn dan ook uitstekend in staat om maatoplossingen te bedenken voor jouw service- en onderhoudswensen. Benieuwd naar de mogelijkheden? Vind jouw dealer via onze werkplaatsafspraakplanner. ",
 	"dealer-6__title": "Gegarandeerd goed",
-	"dealer-6__text": "Een nieuwe ŠKODA heeft altijd twee jaar fabrieksgarantie. Is jouw ŠKODA ouder dan twee jaar? Wij bieden twee jaar garantie op elke reparatie door de ŠKODA-dealer. Zowel op de materialen als op de arbeid. "
+	"dealer-6__text": "Een nieuwe ŠKODA heeft altijd twee jaar fabrieksgarantie. Is jouw ŠKODA ouder dan twee jaar? Wij bieden twee jaar garantie op elke reparatie door de ŠKODA-dealer. Zowel op de materialen als op de arbeid. ",
+	"dealer-1__image": "https://pon.michielkoning.nl/images/dealer-cta-1.jpg",
+	"dealer-2__image": "https://pon.michielkoning.nl/images/dealer-cta-2.jpg",
+	"dealer-3__image": "https://pon.michielkoning.nl/images/dealer-cta-3.jpg",
+	"dealer-4__image": "https://pon.michielkoning.nl/images/dealer-cta-4.jpg",
+	"dealer-5__image": "https://pon.michielkoning.nl/images/dealer-cta-5.jpg",
+	"dealer-6__image": "https://pon.michielkoning.nl/images/dealer-cta-6.jpg"
 }
